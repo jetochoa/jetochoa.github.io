@@ -37,9 +37,9 @@ a:hover {
 }
 
 ::-moz-selection { /* Code for Firefox */
-  background: #1db4cf;
+  background: #faeec3;
 }
 
 ::selection {
-  background: faeec3;
+  background: #faeec3;
 }
