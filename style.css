@@ -29,7 +29,7 @@ body {
 	margin: 10px 0 10px 0;
 }
 a {
-	color: #f20c96
+	color: #d31616
 }
 
 a:hover {
@@ -37,9 +37,9 @@ a:hover {
 }
 
 ::-moz-selection { /* Code for Firefox */
-  background: #f4b7dc;
+  background: #dc4848;
 }
 
 ::selection {
-  background: #f4b7dc;
+  background: #dc4848;
 }
